@@ -57,3 +57,5 @@ predict("dog1.jpg")
 predict("dog2.jpg")
 predict("dog3.jpg")
 predict("cat.jpg")
+
+# voila
